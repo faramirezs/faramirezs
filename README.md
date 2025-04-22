@@ -1,6 +1,6 @@
 ## Hi there, I' Alejo 👋
 
-- 🌱 As a software engineering student at (42 Berlin)[https://42berlin.de/de/], I am leveraging my 10+ years of experience in product strategy, data-driven web optimization and SEO to build a robust foundation in systems programming, full-stack development, and complex problem-solving. 
+- 🌱 As a software engineering student at [42 Berlin](https://42berlin.de/de/), I am leveraging my 10+ years of experience in product strategy, data-driven web optimization and SEO to build a robust foundation in systems programming, full-stack development, and complex problem-solving. 
 
 - 🔭My transition from marketing to software engineering is fueled by a passion for building:
   - ai automations & agentic solutions, 
