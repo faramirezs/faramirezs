@@ -1,12 +1,41 @@
-## Hi there, I'm Alejo 👋
+# Hi there, I'm Alejo 👋
 
-- 🌱 As a software engineering student at [42 Berlin](https://42berlin.de/de/), I am leveraging my 10+ years of experience in product strategy, data-driven web optimization and SEO to build a robust foundation in systems programming, full-stack development, and complex problem-solving. 
+** Ai Software Engineer** based in Berlin 🇩🇪
 
-- 🔭My transition from marketing to software engineering is fueled by a passion for building:
-  - ai automations & agentic solutions, 
-  - scalable systems and 
-  - solving complex technical challenges, 
+---
 
-- ⚡ And enhanced by the rigorous, peer-driven curriculum of 42 Berlin’s coding school. The curriculum covers a wide range of topics, including algorithms, data structures, system administration, and cybersecurity, providing a robust foundation in software engineering.​
+### About Me
 
-- 👯 Open to internships and collaborative opportunities in the tech ecosystem.
+🎓 Software Engineering student from **42 Berlin** — 1,600+ hours of intensive systems programming in C/C++, building everything from HTTP servers to Docker infrastructure from scratch.
+🔄 Transitioned from 10+ years of product strategy and web infrastructure into DevOps/MLOps, combining business insight with low-level systems knowledge.
+🛠️ Currently working with **Python**, **Docker**, **CI/CD pipelines**, and cloud platforms (**AWS**, **Azure**, **GCP**) to build scalable, automated solutions.
+
+---
+
+### What I Build
+
+- 🐳 **Containerized infrastructure** — multi-service Docker architectures
+- 🔁 **CI/CD pipelines** — GitHub Actions workflows for automated testing & deployment
+- 🖥️ **Backend APIs** — FastAPI, RESTful services
+- 🐧 **System automation** — Bash scripting, process orchestration, Linux administration
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Inception](https://github.com/faramirezs/inception)** | Multi-container Docker infrastructure (NGINX, WordPress, MariaDB) | Docker, Bash |
+| **[Webserv](https://github.com/faramirezs/webserv)** | HTTP/1.1 server built from scratch with CGI support | C++ |
+| **[Minishell](https://github.com/faramirezs/minishell)** | Unix shell with pipes, redirections, and signal handling | C |
+
+---
+
+### Tech Stack
+
+```text
+Languages:    Python • C • C++ • Bash • SQL
+DevOps:       Docker • GitHub Actions • Linux/Unix
+Cloud:        AWS • Azure • GCP
+Backend:      FastAPI • PostgreSQL • REST APIs
+Tools:        Git • Makefile • Valgrind • GDB
