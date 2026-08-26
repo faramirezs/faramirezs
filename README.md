@@ -1,49 +1,34 @@
-# Hi there, I'm Alejo 👋
+# Alejandro Ramírez
+**Automation & Integrations Engineer** — Berlin
 
-**Ai Engineer** based in Berlin 🇩🇪
+I turn manual operations into reliable, traceable systems. I work across n8n, Make, Python, APIs, accounting workflows, and developer tools.
 
----
-
-### About Me
-
-🎓 Software Engineering student from **42 Berlin** — 1,600+ hours of intensive systems programming in C/C++, building everything from HTTP servers to Docker infrastructure from scratch.
-
-🔄 Transitioned from 10+ years of product strategy and web infrastructure into DevOps/MLOps, combining business insight with low-level systems knowledge.
-
-🛠️ Currently working with **Python**, **Docker**, **CI/CD pipelines**, and cloud platforms (**AWS**, **Azure**, **GCP**) to build scalable, automated solutions.
-
-🤖 Passionate about **AI automations & agentic workflows** — building multi-agent systems that solve real business problems.
+**Selected proof**
+- [Portfolio case studies](https://soyalejo.com) — fail-closed accounting, invoice pipelines, 50k+ intake automation
+- [hamberger-dl](https://github.com/faramirezs/hamberger-dl) — supplier-document CLI with OIDC and safe re-runs
+- [Merged iii contribution #690](https://github.com/iii-hq/workers/pull/690) — Rust streaming LLM provider worker
+- [python-escpos-cli-skill](https://github.com/faramirezs/python-escpos-cli-skill) — printer CLI skill verified on Epson TM-m30II
 
 ---
 
-### What I Build
+### What I build
 
-- 🤖 **AI & Agentic solutions** — multi-agent workflows for automation
-- 🐳 **Containerized infrastructure** — multi-service Docker architectures
-- 🔁 **CI/CD pipelines** — GitHub Actions workflows for automated testing & deployment
-- 🖥️ **Backend APIs** — FastAPI, RESTful services, payment integrations
+- Workflow automation and API integrations that survive retries, audits, and handoffs
+- Accounting and document pipelines — [SumUp → Lexware](https://soyalejo.com/work/sumup-lexware-fail-closed), [supplier PDFs → Lexware](https://soyalejo.com/work/hamberger-invoices-lexware), [payout evidence](https://soyalejo.com/work/payout-evidence-attachments)
+- Intake and guidance systems — [JurisDATA case study](https://soyalejo.com/work/jurisdata-ticket-intake) that helped 50,000+ people
+- CLI tools and backend services — Python, FastAPI, PostgreSQL, Docker
 
----
+### Systems foundation
 
-### Featured Projects
+Peer-to-peer systems training at **42 Berlin** — C/C++, Unix, networking, concurrency, Docker, infrastructure. Helps me read both sides of an integration when it breaks in the middle.
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Multi-Agent Invoice Automation** | Agentic workflow automating invoice processing, pricing extraction, and tax classification with accounting API integration | Python, AI Agents |
-| **Membership & Payments Platform** | FastAPI backend for digital membership cards, recurring payments, and SumUp integration with full API docs | FastAPI, PostgreSQL |
-| **[Inception](https://github.com/faramirezs/inception)** | Multi-container Docker infrastructure (NGINX, WordPress, MariaDB) | Docker, Bash |
-| **[Webserv](https://github.com/faramirezs/webserv)** | HTTP/1.1 server built from scratch with CGI support | C++ |
-| **[Minishell](https://github.com/faramirezs/minishell)** | Unix shell with pipes, redirections, and signal handling | C |
-
----
-
-### Tech Stack
+### Tech
 
 ```text
-Languages:    Python • C • C++ • Bash • SQL
-AI/ML:        AI Agents • LLM Integrations • Automation Workflows
-DevOps:       Docker • GitHub Actions • Linux/Unix
-Cloud:        AWS • Azure • GCP
-Backend:      FastAPI • PostgreSQL • REST APIs • Payment APIs
-Tools:        Git • Makefile • Valgrind • GDB
+Automation:   n8n • Make • APIs • webhooks • ETL
+Backend:      Python • FastAPI • PostgreSQL • REST
+Systems:      C • C++ • Bash • Linux/Unix • Docker • NGINX • GitHub Actions
+Data:         SQL • reconciliation • audit trails
 ```
+
+Find me on [GitHub](https://github.com/faramirezs) and [LinkedIn](https://www.linkedin.com/in/alejandro-mlops-engineer/).
