@@ -31,4 +31,4 @@ Systems:      C • C++ • Bash • Linux/Unix • Docker • NGINX • GitHub 
 Data:         SQL • reconciliation • audit trails
 ```
 
-Find me on [GitHub](https://github.com/faramirezs) and [LinkedIn](https://www.linkedin.com/in/alejandro-mlops-engineer/).
+Find me on [GitHub](https://github.com/faramirezs) and [LinkedIn](https://www.linkedin.com/in/alejandro-ramirez-automation/).
