@@ -8,6 +8,7 @@ I turn manual operations into reliable, traceable systems. I work across n8n, Ma
 - [hamberger-dl](https://github.com/faramirezs/hamberger-dl): supplier-document CLI with OIDC and safe re-runs
 - [Merged iii contribution #690](https://github.com/iii-hq/workers/pull/690): Rust streaming LLM provider worker
 - [python-escpos-cli-skill](https://github.com/faramirezs/python-escpos-cli-skill): printer CLI skill verified on Epson TM-m30II
+- [socratic-coding-tutor](https://github.com/faramirezs/socratic-coding-tutor): GitHub Copilot tutor skill with guided questions and a persistent memory bank
 
 ---
 
